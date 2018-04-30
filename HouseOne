@@ -1,0 +1,14 @@
+package game.house.house1;
+
+public class HosueOne {
+	private int xPos, yPos;
+	
+	public HosueOne() {
+		xPos = 25;
+		yPos = 25;
+	}
+	public void setNewX(int changeValue) {
+		
+	}
+
+}
