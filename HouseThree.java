@@ -1,8 +1,8 @@
 package game.house.house3;
 
-public class Chest {
+public class HouseThree {
 
-	public Chest() {
+	public HouseThree() {
 		// TODO Auto-generated constructor stub
 	}
 
