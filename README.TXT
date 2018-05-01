@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Jaav game 
+PURPOSE OF PROJECT:assignment for my java class
+VERSION or DATE:I
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS:ELee Wingfield, Simon Orgundare
