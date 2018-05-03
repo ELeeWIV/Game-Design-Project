@@ -1,4 +1,4 @@
-package game.house.house3;
+package game
 
 public class Chest {
 
