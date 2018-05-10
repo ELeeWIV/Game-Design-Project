@@ -1,9 +1,19 @@
-package game
+package game;
 
-public class Chest {
+import java.util.ArrayList;
 
+/*
+ * @author: Emmett Wingfield IV
+ * @version 1
+ */
+public class Chest extends Backpack {
+	private ArrayList<String> itemsIn;
 	public Chest() {
-		// TODO Auto-generated constructor stub
+		itemsIn = new ArrayList<String>();
+	}
+	public void putInChest(String item) {
+		itemsIn.add(item);
+		
 	}
 
 }
